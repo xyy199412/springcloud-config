@@ -1,1 +1,2 @@
-this is config-dev.yml version = 002
+config: 
+  info: this is config-dev
